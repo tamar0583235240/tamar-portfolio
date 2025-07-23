@@ -4,10 +4,12 @@ import { GeistMono } from 'geist/font/mono'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
-  generator: 'v0.dev',
-}
+  title: "Tamar Biton's Portfolio",
+  description: "A showcase of my work and skills as a software developer",
+  icons: {
+    icon: "/github-single.png",
+  },
+};
 
 export default function RootLayout({
   children,

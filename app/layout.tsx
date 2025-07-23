@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "Tamar Biton's Portfolio",
   description: "A showcase of my work and skills as a software developer",
   icons: {
-    icon: "/github-single round.png",
+    icon: "/github-single.png",
   },
 };
 

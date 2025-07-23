@@ -29,7 +29,7 @@ export function ProjectsSection() {
       description: "Desktop application built with C# and .NET Framework",
       technologies: ["C#", ".NET Framework", "WinForms", "XML"],
       highlights: ["3-layer architecture (UI, BL, DAL)", "Design Patterns implementation", "XML-based data storage"],
-      githubUrl: "https://github.com/tamar0583235240/jewelryStorejewelryStore",
+      githubUrl: "https://github.com/tamar0583235240/jewelryStore",
       liveUrl: undefined,
     },
     {
@@ -53,7 +53,7 @@ export function ProjectsSection() {
         "Advanced data structures for queue management",
         "OOP principles and modular architecture",
       ],
-      githubUrl: "https://github.com/tamar0583235240/inquiryManagementinquiryManagement",
+      githubUrl: "https://github.com/tamar0583235240/inquiryManagement",
       liveUrl: undefined,
     },
   ]

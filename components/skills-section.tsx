@@ -6,11 +6,11 @@ import { Code, Database, Cloud } from "lucide-react"
 
 export function SkillsSection() {
   const skills = {
-    frontend: ["React", "Angular", "TypeScript", "JavaScript", "HTML", "CSS", "Redux"],
+    frontend: ["React", "Angular", "TypeScript", "JavaScript", "HTML", "CSS", "Redux", "Figma"],
     backend: ["Python", "Java", "C#", "Node.js", ".NET", ".NET Core", "Express"],
     databases: ["SQL", "MongoDB"],
     cloud: ["AWS"],
-    tools: ["Git", "GitHub", "Bitbucket", "Windows", "Linux"],
+    tools: ["Git", "GitHub", "Bitbucket", "Windows", "Linux", "CI/CD"],
   }
 
   return (
